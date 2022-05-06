@@ -1,0 +1,17 @@
+LOAD m15.dat
+pane
+oper
+iter 200
+visc       2900000.000000
+mach   0.120000
+pacc
+
+
+cl 0.0
+pacc
+pwrt
+m15.pol
+
+
+
+quit
